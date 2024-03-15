@@ -2,8 +2,7 @@
 
 ## 📌 Sommaire
 1. [Projet](#💻-projets)
-    * [BLE Xamarin](#ble-client--android)
-    * [BLE Serveur](#ble-serveur--android)
+    * [BLE Xamarin](./Xamarin-BLE/)
 
 ## 🎯 Badges
 [![Protocole BLE](https://img.shields.io/badge/Protocole-BLE-red.svg)](https://www.syscom-prorep.com/application-technologie/ble)
