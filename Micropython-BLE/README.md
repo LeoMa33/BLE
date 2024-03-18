@@ -1,4 +1,4 @@
-# Bluetooth Low Energy | Xamarin
+# Bluetooth Low Energy | MicroPython
 
 ## 📌 Sommaire
 1. [Description du Projet](#📋-description)
