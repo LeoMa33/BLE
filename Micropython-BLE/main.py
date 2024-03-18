@@ -10,7 +10,7 @@ wlan_mac = wlan_sta.config('mac')
 
 
 class BLE:
-    def __init__(self, name):
+    def __init__(self, name, data=""):
 
         self.service_uuid = "3a13c4ec-4e06-49a2-8fa2-e189f0a9364a"
         self.characteristic_uuid = "fd3b1289-4226-41fa-abe4-d9b6066a5b20"
@@ -79,7 +79,7 @@ class BLE:
 
 
 async def main():
-    ble = BLE("Device Name")
+    ble = BLE("Device Name","dataToSend")
 
     while not ble.connect:
         pass
