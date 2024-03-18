@@ -29,4 +29,4 @@ ble = BLE(<deviceName>,<dataToSend>)
 ```
 On créé un objet de type [BLE]() qui initialise un serveur BLE en donnant le nom \<deviceName> à notre appareil et commence a avertir de sa disponibilité et écrit la donnée \<dataToSend> sur sa caractèristique.
 
-[Source](./main.py)
+[Source](./BLEServer.py)
